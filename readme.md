@@ -1,6 +1,7 @@
 # Comparing Rab interactive studies
 
  __Authors__: Francis Bourassa ([@francis-B](https://github.com/Francis-B))
+ 
  __Email__: <Francis.Bourassa@USherbrooke.ca>
 
 ## Description
