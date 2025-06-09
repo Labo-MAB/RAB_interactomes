@@ -20,4 +20,5 @@ dependencies:
   - pip=23.3.2
   - pip:
     - upsetplot==0.9.0
+    - matplotlib-venn==1.1.2
 
